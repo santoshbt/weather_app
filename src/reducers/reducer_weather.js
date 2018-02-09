@@ -9,3 +9,7 @@ export default function(state= [], action){
 
   return state;
 }
+
+
+
+/// to handle the payload promise
